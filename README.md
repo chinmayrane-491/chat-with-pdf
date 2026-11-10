@@ -19,9 +19,17 @@
 
 <br/>
 
-[🌟 Star on GitHub](https://github.com) • [🐛 Report Bug](https://github.com) • [💡 Request Feature](https://github.com)
+[🌟 Star on GitHub](https://github.com/chinmayrane-491/chat-with-pdf) • [📹 Watch Demo Video](docs/videos/chat_with_pdf_demo.webm) • [🐛 Report Bug](https://github.com/chinmayrane-491/chat-with-pdf/issues)
 
 </div>
+
+---
+
+## 🎥 Video Demonstration
+
+Check out the full 35-second walkthrough demonstrating theme toggling, document upload, and real-time AI conversation:
+
+> 🎬 **Video File**: [`docs/videos/chat_with_pdf_demo.webm`](docs/videos/chat_with_pdf_demo.webm) (720p HD, 25 FPS)
 
 ---
 
