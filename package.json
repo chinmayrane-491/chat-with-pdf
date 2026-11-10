@@ -1,0 +1,21 @@
+{
+  "name": "chat-with-pdf",
+  "version": "1.0.0",
+  "description": "Full-stack PDF Q&A Chatbot powered by Google Gemini AI and Vector Embeddings",
+  "main": "server/index.js",
+  "scripts": {
+    "server": "cd server && node index.js",
+    "client": "cd frontend && npm run dev",
+    "build:client": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "gemini",
+    "pdf",
+    "rag",
+    "vector-search",
+    "react",
+    "chatbot"
+  ],
+  "author": "Chinmay",
+  "license": "MIT"
+}

@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+server/node_modules/
+frontend/node_modules/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+server/.env
+
+# Server Uploads (exclude all files except .gitkeep)
+server/uploads/*
+!server/uploads/.gitkeep
+
+# Build outputs
+dist/
+frontend/dist/
+frontend/dist-ssr/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Playwright & Testing
+.playwright-mcp/
+test-results/
+
+# Editor & OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
